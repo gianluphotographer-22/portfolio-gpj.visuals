@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+    <rect width="100%" height="100%" fill="#f3f3ef"/>
+    <rect x="96" y="88" width="22" height="748" rx="6" fill="#e10600"/>
+    <circle cx="1264" cy="308" r="209" fill="#e10600"/>
+    <circle cx="1264" cy="308" r="121" fill="#f3f3ef" opacity=".88"/>
+    <text x="176" y="198" fill="#e10600" font-family="Arial, sans-serif" font-weight="700" font-size="30" letter-spacing="5">PROJECT 06.3</text>
+    <text x="176" y="572" fill="#111111" font-family="Arial, sans-serif" font-weight="700" font-size="93">Intensity 3</text>
+    <text x="176" y="649" fill="#6f6f6f" font-family="Arial, sans-serif" font-size="35">Gallery image</text>
+    <text x="176" y="957" fill="#6f6f6f" font-family="Arial, sans-serif" font-size="25">Sostituisci questo placeholder con una tua foto</text>
+    </svg>
